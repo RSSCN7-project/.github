@@ -4,6 +4,16 @@
 
 ImageMatch is an advanced image matching and similarity analysis application that combines backend image processing capabilities with a React frontend.
 
+## Team
+
+The project is built by the team consisting of:
+
+- Marouan Daghmoumi
+- Mohammed Aachabi
+- Abdelmajid Benjelloun
+
+The project is supervised and guided by Professor M'hamed AIT KBIR.
+
 ## Project Structure
 
 ```
@@ -120,5 +130,3 @@ npm start
 ## License
 
 Specify your project's license here (e.g., MIT, Apache 2.0)
-
-## Contact
