@@ -6,7 +6,7 @@ ImageMatch is an advanced image matching and similarity analysis application tha
 
 ## Demo
 
-[Watch the Demo](profile/ImageMatch.mp4)
+[Watch the Demo](ImageMatch.mp4)
 
 ## Team
 
