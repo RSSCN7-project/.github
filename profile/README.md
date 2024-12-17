@@ -4,6 +4,10 @@
 
 ImageMatch is an advanced image matching and similarity analysis application that combines backend image processing capabilities with a React frontend.
 
+## Demo
+
+[Watch the Demo](profile/ImageMatch.mp4)
+
 ## Team
 
 The project is built by the team consisting of:
